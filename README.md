@@ -128,9 +128,9 @@ $ npm start
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 <p align="center">
-  Feito com ❤️ por <strong>IguzinhoTV</strong>!!
+  Feito com ❤️ por <a href="https://github.com/igooralm192" target="_blank">IguzinhoTV</a>!!
 </p>
