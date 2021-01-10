@@ -1,8 +1,8 @@
 <!-- Logo -->
 
-<h1 align="center">
+<h6 align="center">
   <img alt="Ecoleta" src=".github/logo.svg" height="80px" />
-</h1>
+</h6>
 
 <!-- Badges -->
 
@@ -26,22 +26,28 @@
 <p>
 
 <!-- Summary -->
-## :computer: Summary
 
-- [:computer: Summary](#computer-summary)
-- [:bookmark: About](#bookmark-about)
-- [:rocket: Technologies](#rocket-technologies)
-- [:information_source: How to use](#information_source-how-to-use)
-- [:recycle: How to contribute](#recycle-how-to-contribute)
-- [:memo: License](#memo-license)
+# Índice
 
-## :bookmark: About
+[Sobre](#sobre)
+[Tecnologias](#tecnologias)
+[Como usar](#como-usar)
+[Como contribuir](#como-contribuir)
+[Licença](#licenca)
 
+<a id="sobre"></a>
 
-  
-<!-- Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/). -->
+## :bookmark: Sobre
 
-## :rocket: Technologies
+O Ecoleta trata-se de uma aplicação Web/Mobile que funciona como um marketplace para coleta de resíduos, onde os usuários podem tanto descobrirem onde há pontos de coleta próximos quanto informar onde há um ponto de coleta. 
+
+Essa aplicação foi realizada durante a **Next Level Week #1**, mais um projeto da [Rocketseat](https://rocketseat.com.br/).
+
+<a id="tecnologias"></a>
+
+## :rocket: Tecnologias
+
+Essa aplicação se utiliza das seguintes tecnologias:
 
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [NodeJS](https://nodejs.org/en/)
@@ -49,11 +55,18 @@
 -  [React Native](http://facebook.github.io/react-native/)
 -  [Expo](https://expo.io/)
 
-## :information_source: How to use
+<a id="como-usar"></a>
 
-## :recycle: How to contribute
+## :information_source: Como usar
 
-## :memo: License
+
+<a id="como-contribuir"></a>
+
+## :recycle: Como contribuir
+
+<a id="licenca"></a>
+
+## :memo: Licença
 
 <!-- Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
