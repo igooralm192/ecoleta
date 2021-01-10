@@ -29,11 +29,11 @@
 
 # Índice
 
-[Sobre](#sobre)
-[Tecnologias](#tecnologias)
-[Como usar](#como-usar)
-[Como contribuir](#como-contribuir)
-[Licença](#licenca)
+- [Sobre](#sobre)
+- [Tecnologias](#tecnologias)
+- [Como usar](#como-usar)
+- [Como contribuir](#como-contribuir)
+- [Licença](#licenca)
 
 <a id="sobre"></a>
 
@@ -132,5 +132,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 <p align="center">
-  Feito com ❤️ por <strong>IguzinhoTV</strong>
+  Feito com ❤️ por <strong>IguzinhoTV</strong>!!
 </p>
