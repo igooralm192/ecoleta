@@ -1,29 +1,47 @@
+<!-- Logo -->
+
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="60px" />
+  <img alt="Ecoleta" src=".github/logo.svg" height="80px" />
 </h1>
+
+<!-- Badges -->
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/igooralm192/nlw-01">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1"><br/>
 </p>
+
+<!-- Description -->
+
+<h3 align="center"> 
+	🚀 Seu marketplace de coleta de resíduos! ♻️
+</h3>
+
+
+
+<!-- Project Design -->
+
 <p align="center">
-  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#memo-licença">Licença</a> -->
-</p>
+  <img alt="Project Design" width="650px" src="./.github/project-design.png" />
+<p>
 
-<!-- <p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
-<p> -->
+<!-- Summary -->
+## :computer: Summary
 
-## :bookmark: Sobre
+- [:computer: Summary](#computer-summary)
+- [:bookmark: About](#bookmark-about)
+- [:rocket: Technologies](#rocket-technologies)
+- [:information_source: How to use](#information_source-how-to-use)
+- [:recycle: How to contribute](#recycle-how-to-contribute)
+- [:memo: License](#memo-license)
+
+## :bookmark: About
 
 
   
 <!-- Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br/). -->
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [NodeJS](https://nodejs.org/en/)
@@ -31,9 +49,11 @@
 -  [React Native](http://facebook.github.io/react-native/)
 -  [Expo](https://expo.io/)
 
-## :boom: Como Executar
+## :information_source: How to use
 
-## :memo: Licença
+## :recycle: How to contribute
+
+## :memo: License
 
 <!-- Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
